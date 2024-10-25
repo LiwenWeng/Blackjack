@@ -1,5 +1,8 @@
 body {
-
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url(images/table.png);
+    color: white;
+    text-align: center;
 }
 
 h1 {
@@ -8,4 +11,13 @@ h1 {
 
 #message-el {
     
+}
+
+button {
+    background-color: goldenrod;
+    padding: 5px;
+    margin: 0.1%;
+    border-radius: 5px;
+    width: 150px;
+    border-width: 2px;
 }
